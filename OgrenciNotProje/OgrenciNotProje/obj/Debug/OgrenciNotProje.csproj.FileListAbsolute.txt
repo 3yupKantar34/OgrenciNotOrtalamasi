@@ -1,0 +1,7 @@
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\bin\Debug\OgrenciNotProje.exe.config
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\bin\Debug\OgrenciNotProje.exe
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\bin\Debug\OgrenciNotProje.pdb
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\obj\Debug\OgrenciNotProje.csproj.AssemblyReference.cache
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\obj\Debug\OgrenciNotProje.csproj.CoreCompileInputs.cache
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\obj\Debug\OgrenciNotProje.exe
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\OgrenciNotProje\OgrenciNotProje\obj\Debug\OgrenciNotProje.pdb
